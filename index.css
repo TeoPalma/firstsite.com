@@ -1,3 +1,15 @@
-body{
+body {
     background-color: lightslategrey;
 }
+
+.titolo {
+    font-family: Font Name;
+    font: 800;
+    font-size: 120;
+    color: ivory;
+}
+
+@font-face{
+    font-family: "Font Name";
+    src: url("./fonts/MINSPSW_.ttf") format("truetype");
+  }
